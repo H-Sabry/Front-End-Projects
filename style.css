@@ -1,0 +1,11 @@
+.head {
+    height: 100%;
+    width: 30px;
+    background-color: #ddd;
+    color: darkorange;
+}
+.body {
+    background-color: black;
+    color: wheat;
+    font-size: 20px;
+}
